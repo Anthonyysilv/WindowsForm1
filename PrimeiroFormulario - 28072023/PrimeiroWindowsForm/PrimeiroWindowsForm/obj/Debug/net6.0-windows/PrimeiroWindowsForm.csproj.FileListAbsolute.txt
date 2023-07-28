@@ -1,0 +1,17 @@
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\bin\Debug\net6.0-windows\PrimeiroWindowsForm.exe
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\bin\Debug\net6.0-windows\PrimeiroWindowsForm.deps.json
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\bin\Debug\net6.0-windows\PrimeiroWindowsForm.runtimeconfig.json
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\bin\Debug\net6.0-windows\PrimeiroWindowsForm.dll
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\bin\Debug\net6.0-windows\PrimeiroWindowsForm.pdb
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\obj\Debug\net6.0-windows\PrimeiroWindowsForm.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\obj\Debug\net6.0-windows\PrimeiroWindowsForm.Form1.resources
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\obj\Debug\net6.0-windows\PrimeiroWindowsForm.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\obj\Debug\net6.0-windows\PrimeiroWindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\obj\Debug\net6.0-windows\PrimeiroWindowsForm.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\obj\Debug\net6.0-windows\PrimeiroWindowsForm.AssemblyInfo.cs
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\obj\Debug\net6.0-windows\PrimeiroWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\obj\Debug\net6.0-windows\PrimeiroWindowsForm.dll
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\obj\Debug\net6.0-windows\refint\PrimeiroWindowsForm.dll
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\obj\Debug\net6.0-windows\PrimeiroWindowsForm.pdb
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\obj\Debug\net6.0-windows\PrimeiroWindowsForm.genruntimeconfig.cache
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\PrimeiroWindowsForm\PrimeiroWindowsForm\obj\Debug\net6.0-windows\ref\PrimeiroWindowsForm.dll

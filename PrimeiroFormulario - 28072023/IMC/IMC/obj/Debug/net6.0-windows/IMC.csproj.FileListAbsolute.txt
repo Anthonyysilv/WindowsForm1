@@ -1,0 +1,17 @@
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\bin\Debug\net6.0-windows\IMC.exe
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\bin\Debug\net6.0-windows\IMC.deps.json
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\bin\Debug\net6.0-windows\IMC.runtimeconfig.json
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\bin\Debug\net6.0-windows\IMC.dll
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\bin\Debug\net6.0-windows\IMC.pdb
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\obj\Debug\net6.0-windows\IMC.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\obj\Debug\net6.0-windows\IMC.Form1.resources
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\obj\Debug\net6.0-windows\IMC.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\obj\Debug\net6.0-windows\IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\obj\Debug\net6.0-windows\IMC.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\obj\Debug\net6.0-windows\IMC.AssemblyInfo.cs
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\obj\Debug\net6.0-windows\IMC.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\obj\Debug\net6.0-windows\IMC.dll
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\obj\Debug\net6.0-windows\refint\IMC.dll
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\obj\Debug\net6.0-windows\IMC.pdb
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\obj\Debug\net6.0-windows\IMC.genruntimeconfig.cache
+C:\Users\aluno\Downloads\PrimeiroFormulario - 28072023\IMC\IMC\obj\Debug\net6.0-windows\ref\IMC.dll
